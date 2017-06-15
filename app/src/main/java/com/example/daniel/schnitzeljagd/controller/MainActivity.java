@@ -1,7 +1,9 @@
-package com.example.daniel.schnitzeljagd;
+package com.example.daniel.schnitzeljagd.controller;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.example.daniel.schnitzeljagd.R;
 
 public class MainActivity extends AppCompatActivity {
 
